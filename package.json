@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "backend": "node ./backend/bin/www",
+    "backend": "nodemon ./backend/bin/www",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
